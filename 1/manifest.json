@@ -3,9 +3,11 @@
   "upload_date": "2025-12-06 20:46:05",
   "total_pages": 4,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/KaradaoArawasanai/1/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/KaradaoArawasanai/1/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/KaradaoArawasanai/1/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/KaradaoArawasanai/1/Image04.webp"
-  ]
+    "302c4725371a91904da67d3dd533da99:54bd69bf92da47a603ff027247e9c2653f478a177c2a9f02fe4d465ff2194e5a0c7e58eddf2111023bc82c93a98958d994de5cc7ce93b32d020e5a134da24dea6f1490d69ebc72f47cba2f8d2a313b60",
+    "1669164fc7f670897b75adbb20f241a1:edd46dafa077132bf4c80343495fd54d940ef6df9c1884c726fbac9459c4206384d634c9c6414cfaafe1183b051679433049d49fb535b3ed4e8e119b3d1cabee10b6c2e08a57a00d1e126400d9e3b0d5",
+    "8f18145a5ce709221742f06b4a533acd:21cbd1be8f66792b47946a5d533d37b635190635bc7dbf17a773463e87713064b143c773d54c8559c2bb63325e9307a7a9ecd486cae5aed181755ea84d594855d668fd4fe61f75063560ab08b3bbfb0e",
+    "8c90bd16d696c7eed53d9a936e06ecb2:85888f2fd09fd7e34e198a04f34f8f5346f1229f8641be2ae193168ce305fdc4fee7ee3cf98c1fd108a51b4d780e6ee2c2efc69621e176e7ebcb4c2b39ebb87da1b3d3689fbbac141a3e26d74510f436"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
