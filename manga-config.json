@@ -1,0 +1,28 @@
+{
+  "type": "manga",
+  "title": "Na wa Karada o Arawasanai",
+  "alternativeTitle": "名は体を表さない",
+  "cover": "https://cdn.nuranantoscans.my.id/covers/KaradaoArawasanai-Cover.webp",
+  "description": "Short Manga Karya Niichi",
+  "author": "Niichi",
+  "artist": "Niichi",
+  "genre": [
+    "Shounen",
+    "Comedy",
+    "Romance",
+    "School Life",
+    "Slice of Life"
+  ],
+  "status": "Ongoing",
+  "endChapter": 100,
+  "views": 0,
+  "links": {
+    "mangadex": "",
+    "raw": "https://x.com/niichi021"
+  },
+  "repoOwner": "nurananto",
+  "repoName": "karadaoarawasanai",
+  "imagePrefix": "Image",
+  "imageFormat": "webp",
+  "lockedChapters": []
+}
