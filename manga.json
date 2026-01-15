@@ -14,7 +14,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 359,
+    "views": 362,
     "links": {
       "mangadex": "",
       "raw": "https://x.com/niichi021"
@@ -34,7 +34,7 @@
       "totalPages": 4,
       "pages": 4,
       "locked": false,
-      "views": 218
+      "views": 220
     },
     "2": {
       "title": "Chapter 2",
@@ -44,7 +44,7 @@
       "totalPages": 1,
       "pages": 1,
       "locked": false,
-      "views": 183
+      "views": 185
     },
     "3": {
       "title": "Chapter 3",
@@ -54,9 +54,9 @@
       "totalPages": 5,
       "pages": 5,
       "locked": false,
-      "views": 196
+      "views": 198
     }
   },
-  "lastUpdated": "2026-01-15T00:21:49+07:00",
+  "lastUpdated": "2026-01-16T00:26:24+07:00",
   "lastChapterUpdate": "2025-12-06T21:07:41+07:00"
 }
